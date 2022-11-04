@@ -1,3 +1,12 @@
+file index berasal dari Index.js di folder src
+database menggunakan json server
+file database disimpan di local storage dengan nama dbm.json
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
